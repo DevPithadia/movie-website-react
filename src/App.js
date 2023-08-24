@@ -8,13 +8,13 @@ import SearchIcon from './search.svg'
 
 const API_URL = "https://www.omdbapi.com?apikey=b78ac03e"
 
-const movie1 = {
-    "Title": "The Shawshank Redemption",
-    "Year": "1994",
-    "imdbID": "tt0111161",
-    "Type": "movie",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
-}
+// const movie1 = {
+//     "Title": "The Shawshank Redemption",
+//     "Year": "1994",
+//     "imdbID": "tt0111161",
+//     "Type": "movie",
+//     "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+// }
 
 const App = () => {
 
